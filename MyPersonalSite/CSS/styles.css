@@ -1,6 +1,7 @@
 body{
     background-color: #B1B2FF;
     margin: 0px;
+    background-image: url('img7.jpg');
 }
 /*
     #B1B2FF
@@ -10,17 +11,25 @@ body{
 */
 .nav{
     display: inline-block;
-    padding-left: 15px;
+    padding-left: 40px;
+    color: #000000;
 }
 p,h1{
     font-style: oblique;
+    color: #000000;
+}
+p{
+    font-style: oblique;
+    font-size: 25px;
+    color: #000000;
+
 }
 
 .iocon{
     width: 15px;
     height: 15px;
     text-decoration: none;
-    color: black;
+    color: rgb(0, 0, 0);
 }
 
 img{
@@ -28,22 +37,37 @@ img{
     height: 100px;
 }
 
-.top-container{
-    background-color:  #D2DAFF;
+.top-container{    
+    color: rgba(0, 0, 0, 0.986);
     text-align: center;
     height: 250px;
-    padding-top: 45px;     
+    padding-top: 45px; 
+    background-image: url("img10.jpg"); 
+    margin-left: 35px; 
+    margin-right: 35px; 
+    border-radius: 30px;
+    
 }
+
 
 .middel-container{
     background-color:#AAC4FF;
     text-align: center;
+    background-image: url('img9.jpg'); 
+    margin-left: 35px;
+    margin-right: 35px; 
+    border-radius: 30px;   
+    
 }
 
 .bottom-container{
-   background-color: #EEF1FF;
+    background-color: #EEF1FF;    
+    text-align: center; 
+    background-image: url('img4.png');
+    margin-left: 35px; 
+    margin-right: 35px; 
+    border-radius: 30px;  
    
-   text-align: center;
 }
 hr{
     border-style: none;
@@ -61,6 +85,10 @@ hr{
     width: 5%;
     border-color: rgb(153, 151, 151);
     background-color: #EEF1FF; 
+}
+
+.cont{
+    color: #000000;
 }
 
 
