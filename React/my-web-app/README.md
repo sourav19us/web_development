@@ -4,6 +4,20 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 
+---
+
+## npx create-react-app my-app-name
+
+                OR
+
+## npx create-react-app . // to create react file in same folder
+
+after download file from git run this cmd
+
+## npm install // this install all dependency
+
+---
+
 In the project directory, you can run:
 
 ### `npm start`
