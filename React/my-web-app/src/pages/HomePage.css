@@ -1,0 +1,11 @@
+div{
+    text-align: center;
+    background: linear-gradient(45deg,lightCyan,skyBlue,rgb(73, 241, 233));
+}
+
+
+img{
+    width: 125px;
+    height: 125px;
+  
+  }

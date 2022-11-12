@@ -1,0 +1,20 @@
+.classdiv{
+    color: #5095a8;  
+    background-color: #9ce0f3;
+  }
+  
+  li{
+    display: inline-block;
+    padding: 15px;
+  }
+  
+  div{
+    text-align: center;
+    
+  }
+  
+  .souravimg{
+    height: 125px;
+    width: 125px;
+    padding-top: 25px;
+  }
